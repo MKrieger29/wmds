@@ -1,5 +1,5 @@
 notation,name,description
-newNotation new Notation,newDescription
+newNotation,"new,Notation",newDescription
 urbanBuiltup,Artificial surfaces and associated areas (Urban areas >50%),NA
 bareAreas,Bare areas,NA
 closedDeciduousBroadleafForest,Closed (>40%) broadleaved deciduous forest (>5m),NA
