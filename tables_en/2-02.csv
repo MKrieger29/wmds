@@ -314,7 +314,7 @@ GNSSradioOccultation,\WIGOS\GOS\GOS Other elements\GNSS radio-occultation system
 GOMIX,\Co-sponsored\GOOS\OceanGliders\GOMIX,GOMIX,GOMIX glider program lead by University of Texas
 GOMOGlider,\Co-sponsored\GOOS\OceanGliders\Global Ocean Monitoring and Observing Program - Glider,Global Ocean Monitoring and Observing Program - Glider,GOMO provide and support high quality global ocean observations and research to improve our scientific understanding and inform society about the ocean's role in environmental change. GOMO glider is the glider component of GOMO.
 GOSGeneral,\WIGOS\GOS\GOS Surface networks\GOS General,GOS General,No affiliation to other GOS Surface networks
-GOship,\Co-sponsored\GOOS\SOT\GO-SHIP,GO-SHIP,Global Ocean Ship-Based Hydrographic Investigations Programme
+GOship,\Co-sponsored\GOOS\GOship,GO-SHIP,Global Ocean Ship-Based Hydrographic Investigations Programme
 GreatLakeGlider,\Co-sponsored\GOOS\OceanGliders\Great Lakes Observing System Glider Program,Great Lakes Observing System Glider Program,Great Lakes Observing System Glider Program
 greeceMB,\Co-sponsored\GOOS\DBCP\GREECE MB,GREECE MB,Moored buoys in the Greek Poseiden Network
 GRUAN,\Co-sponsored\GCOS\GRUAN,GRUAN,GCOS Reference Upper-Air Network
@@ -528,16 +528,16 @@ SOCIBGDP,\Co-sponsored\GOOS\DBCP\SOCIBGDP,SOCIB-GDP,"Barometer upgraded drifting
 SOCIBGlider,\Co-sponsored\GOOS\OceanGliders\Balearic Islands Observatory,Balearic Islands Observatory,"SOCIB operational program is, covering the Eivissa channel (6 transects) and Mallorca channel (1 transect) from APR to MAY 2019, sampling physical and biogeochemical parameters (CTD, fluorescence and turbidity, and oxygen)."
 soclim,\Co-sponsored\GOOS\Argo\SOCLIM,SOCLIM,Southern Ocean Climate: Field studies with innovative tools
 SOOP,\Co-sponsored\GOOS\SOT\SOOP,SOOP,Ship Of Opportunity Programme
-SOOPAOMLTSG,\Co-sponsored\GOOS\SOT\SOOPAOMLTSG,SOOP-AOML-TSG,AOML managed TSG systems
-SOOPBOM,\Co-sponsored\GOOS\SOT\SOOP-BOM,SOOP-BOM,NA
-SOOPFPVRECOPESCA,\Co-sponsored\GOOS\SOT\ASAP\SOOP-FVP-RECOPESCA,SOOP-FVP-RECOPESCA,A new example of participative approach to collect in-situ environmental and fisheries data using fisheries vessels of opportunity
-SOOPFVPBDC,\Co-sponsored\GOOS\SOT\ASAP\SOOP-FVP-BDC,SOOP-FVP-BDC,"SOOP-FVP-Beering Data Collective. Collaborative data collection as a service, using S/T probes on fishing equipment"
-SOOPFVPCatchingData,\Co-sponsored\GOOS\SOT\ASAP\SOOP-FVP-Catching Data,SOOP-FVP-Catching Data,"Collection of T/S data from fishing equipment, developed by the Fishing Vessel Industry in Netherland"
-SOOPFVPODN,\Co-sponsored\GOOS\SOT\SOOPFVPODN,SOOP-FVP-ODN,Fishing Vessel observation program led by Ocean Data Network
-SOOPFVPVistools,\Co-sponsored\GOOS\SOT\ASAP\SOOP-FVP-Vistools,SOOP-FVP-Vistools,ILVO fishing Vessel Observation Activities
-SOOPIFREMERTSG,\Co-sponsored\GOOS\SOT\ASAP\SOOP-IFREMER-TSG,SOOP-IFREMER-TSG,T/S underway data collection program from Ifremer operated TSG and similar instruments
-SOOPIRDTSG,\Co-sponsored\GOOS\SOT\ASAP\SOOP-IRD-TSG,SOOP-IRD-TSG,T/S underway data collection program from IRD operated TSG and similar instruments
-SOOPIRDXBT,\Co-sponsored\GOOS\SOT\ASAP\SOOP-IRD-XBT,SOOP-IRD-XBT,XBT program from IRD institute
+SOOPAOMLTSG,\Co-sponsored\GOOS\SOT\SOOP\SOOPAOMLTSG,SOOP-AOML-TSG,AOML managed TSG systems
+SOOPBOM,\Co-sponsored\GOOS\SOT\SOOP\SOOP-BOM,SOOP-BOM,NA
+SOOPFPVRECOPESCA,\Co-sponsored\GOOS\SOT\SOOP\SOOP-FVP-RECOPESCA,SOOP-FVP-RECOPESCA,A new example of participative approach to collect in-situ environmental and fisheries data using fisheries vessels of opportunity
+SOOPFVPBDC,\Co-sponsored\GOOS\SOT\SOOP\SOOP-FVP-BDC,SOOP-FVP-BDC,"SOOP-FVP-Beering Data Collective. Collaborative data collection as a service, using S/T probes on fishing equipment"
+SOOPFVPCatchingData,\Co-sponsored\GOOS\SOT\SOOP\SOOP-FVP-Catching Data,SOOP-FVP-Catching Data,"Collection of T/S data from fishing equipment, developed by the Fishing Vessel Industry in Netherland"
+SOOPFVPODN,\Co-sponsored\GOOS\SOT\SOOP\SOOPFVPODN,SOOP-FVP-ODN,Fishing Vessel observation program led by Ocean Data Network
+SOOPFVPVistools,\Co-sponsored\GOOS\SOT\SOOP\SOOP-FVP-Vistools,SOOP-FVP-Vistools,ILVO fishing Vessel Observation Activities
+SOOPIFREMERTSG,\Co-sponsored\GOOS\SOT\SOOP\SOOP-IFREMER-TSG,SOOP-IFREMER-TSG,T/S underway data collection program from Ifremer operated TSG and similar instruments
+SOOPIRDTSG,\Co-sponsored\GOOS\SOT\SOOP\SOOP-IRD-TSG,SOOP-IRD-TSG,T/S underway data collection program from IRD operated TSG and similar instruments
+SOOPIRDXBT,\Co-sponsored\GOOS\SOT\SOOP\SOOP-IRD-XBT,SOOP-IRD-XBT,XBT program from IRD institute
 SOSCEX,\Co-sponsored\GOOS\OceanGliders\SOSCEx glider program,SOSCEx glider program,The Southern Ocean Seasonal Cycle Experiment glider program.
 SpainIEOMB,\Co-sponsored\GOOS\DBCP\SPAIN-IEO-MB,SPAIN-IEO-MB,Moored Buoys Managed by Spanish Institute of Oceanography of the Ministry of Science and Technology
 spainPDEMB,\Co-sponsored\GOOS\DBCP\SPAIN-PDE MB,SPAIN-PDE MB,Puertos del EStado Spain Moored buoy
@@ -580,11 +580,11 @@ UWAPLglider,\Co-sponsored\GOOS\OceanGliders\UWAPLglider,University of Washington
 UWURIglider,\Co-sponsored\GOOS\OceanGliders\UWURIglider,UW-URI Glider Program,Glider program lead by UW in cooperation with University of Rhode Island.
 VIMGlider,\Co-sponsored\GOOS\OceanGliders\Virginia Institute of Marine Science Glider Program,Virginia Institute of Marine Science Glider Program,Glider deployment operated by VIMS with observation program.
 VOS3P,\Co-sponsored\GOOS\SOT\VOS\VOS-3P,VOS-3P,NA
-VOSAR,\Co-sponsored\GOOS\SOT\VOSAR,VOS-AR,Argentina's contribution to the Voluntary Observing Ships (VOS) program
+VOSAR,\Co-sponsored\GOOS\SOT\VOS\VOSAR,VOS-AR,Argentina's contribution to the Voluntary Observing Ships (VOS) program
 VOSAU,\Co-sponsored\GOOS\SOT\VOS\VOS-AU,VOS-AU,NA
 VOSCA,\Co-sponsored\GOOS\SOT\VOS\VOS-CA,VOS-CA,NA
 VOSCL,\Co-sponsored\GOOS\SOT\VOS\VOS-CL,VOS-CL,NA
-VOSCO,\Co-sponsored\GOOS\SOT\VOSCO,VOS-CO,Colombian contribution to the Voluntary Observing Ships (VOS) program
+VOSCO,\Co-sponsored\GOOS\SOT\VOS\VOSCO,VOS-CO,Colombian contribution to the Voluntary Observing Ships (VOS) program
 VOSDE,\Co-sponsored\GOOS\SOT\VOS\VOS-DE,VOS-DE,NA
 VOSDK,\Co-sponsored\GOOS\SOT\VOS\VOS-DK,VOS-DK,Danish VOS program
 VOSES,\Co-sponsored\GOOS\SOT\VOS\VOS-ES,VOS-ES,NA
@@ -596,11 +596,11 @@ VOSHK,\Co-sponsored\GOOS\SOT\VOS\VOS-HK,VOS-HK,NA
 VOSIE,\Co-sponsored\GOOS\SOT\VOS\VOS-IE,VOS-IE,NA
 VOSIL,\Co-sponsored\GOOS\SOT\VOS\VOS-IL,VOS-IL,NA
 VOSIN,\Co-sponsored\GOOS\SOT\VOS\VOS-IN,VOS-IN,NA
-VOSIR,\Co-sponsored\GOOS\SOT\VOSIR,VOS-IR,Islamic Republic of Iran contribution to the Voluntary Observing Ships (VOS) program
+VOSIR,\Co-sponsored\GOOS\SOT\VOS\VOSIR,VOS-IR,Islamic Republic of Iran contribution to the Voluntary Observing Ships (VOS) program
 VOSIS,\Co-sponsored\GOOS\SOT\VOS\VOS-IS,VOS-IS,NA
 VOSJP,\Co-sponsored\GOOS\SOT\VOS\VOS-JP,VOS-JP,NA
 VOSKR,\Co-sponsored\GOOS\SOT\VOS\VOS-KR,VOS-KR,NA
-VOSMAERSK,\Co-sponsored\GOOS\SOT\VOSMAERSK,VOS-MAERSK,Program for Voluntary Observing Ships (VOS) data gathered by Maersk-owned systems.
+VOSMAERSK,\Co-sponsored\GOOS\SOT\VOS\VOSMAERSK,VOS-MAERSK,Program for Voluntary Observing Ships (VOS) data gathered by Maersk-owned systems.
 VOSMY,\Co-sponsored\GOOS\SOT\VOS\VOS-MY,VOS-MY,NA
 VOSNL,\Co-sponsored\GOOS\SOT\VOS\VOS-NL,VOS-NL,NA
 VOSNO,\Co-sponsored\GOOS\SOT\VOS\VOS-NO,VOS-NO,NA
@@ -609,7 +609,7 @@ VOSPL,\Co-sponsored\GOOS\SOT\VOS\VOS-PL,VOS-PL,Polish VOS program
 VOSRU,\Co-sponsored\GOOS\SOT\VOS\VOS-RU,VOS-RU,NA
 VOSSE,\Co-sponsored\GOOS\SOT\VOS\VOS-SE,VOS-SE,NA
 VOSSHIPMASK,\Co-sponsored\GOOS\SOT\VOS\VOS-SHIP-MASK,VOS-SHIP-MASK,"Program created for platforms transmitting under ""SHIP"" GTS identifier"
-VOSSRoCS,\Co-sponsored\GOOS\SOT\VOSSRoCS,VOS-SRoCS,Science Research on Commercial Ships - Voluntary Observing Ships (VOS)
+VOSSRoCS,\Co-sponsored\GOOS\SOT\VOS\VOSSRoCS,VOS-SRoCS,Science Research on Commercial Ships - Voluntary Observing Ships (VOS)
 VOSTH,\Co-sponsored\GOOS\SOT\VOS\VOS-TH,VOS-TH,Thai VOS program
 VOSUS,\Co-sponsored\GOOS\SOT\VOS\VOS-US,VOS-US,NA
 VOSZA,\Co-sponsored\GOOS\SOT\VOS\VOS-ZA,VOS-ZA,NA
